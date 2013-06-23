@@ -500,7 +500,6 @@
 		C27F0ADE176F486A00273E2E = {
 			isa = PBXGroup;
 			children = (
-				C2F17AE317777E8B00BAC3FA /* StoreKit.framework */,
 				C27F0AF0176F486B00273E2E /* Earthquake */,
 				C27F0AE9176F486A00273E2E /* Frameworks */,
 				C27F0AE8176F486A00273E2E /* Products */,
@@ -518,6 +517,7 @@
 		C27F0AE9176F486A00273E2E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				C2F17AE317777E8B00BAC3FA /* StoreKit.framework */,
 				C2F17ADF17777B8C00BAC3FA /* AudioToolbox.framework */,
 				C2F17ADD17777B8600BAC3FA /* MessageUI.framework */,
 				C2F17ADB17777B7A00BAC3FA /* CoreTelephony.framework */,
