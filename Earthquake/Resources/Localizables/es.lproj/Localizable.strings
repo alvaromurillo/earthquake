@@ -1,0 +1,12 @@
+/* 
+  Localizables.strings
+  Earthquake
+
+  Created by Álvaro Murillo del Puerto on 23/06/13.
+  Copyright (c) 2013 Marta López Martos. All rights reserved.
+*/
+
+// Commons
+"_meters" = "m";
+"_kilometers" = "km";
+"_magnitude" = "Magnitud";
